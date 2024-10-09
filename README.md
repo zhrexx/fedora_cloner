@@ -3,7 +3,7 @@
 # Both Files are required
 
 # How to install
-# <span style="color: red;">Warning: Clear the Trash Folder</span>
+<h1><span style="color: red;">Warning: Clear the Trash Folder</span></h1>
 
 # On the PC/Laptop to clone...
 > # Run this:
